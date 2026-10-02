@@ -1,0 +1,32 @@
+{
+  "databases": [
+    {
+      "name": "ash_filters",
+      "filename": "ash_filters.db",
+      "url": "https://github.com/ShanonPearce/ASH-DSP/raw/refs/heads/main/resources/databases/ash_filters.db",
+      "url_alternative": "https://drive.google.com/file/d/1B7WJAo-trR1Mdw2F05WI92mVk6vltzJJ/view?usp=drive_link",
+      "remote_version": "1.0.0"
+    },
+    {
+      "name": "ash_hpcf",
+      "filename": "ash_hpcf.db",
+      "url": "https://github.com/ShanonPearce/ASH-DSP/raw/refs/heads/main/resources/databases/ash_hpcf.db",
+      "url_alternative": "https://drive.google.com/file/d/1j3jfJJ3nadrlyNvMg7Hs6CV393MA0uGp/view?usp=drive_link",
+      "remote_version": "1.0.0"
+    },
+    {
+      "name": "ash_hrir_catalogue",
+      "filename": "ash_hrir_catalogue.db",
+      "url": "https://github.com/ShanonPearce/ASH-DSP/raw/refs/heads/main/resources/databases/ash_hrir_catalogue.db",
+      "url_alternative": "https://drive.google.com/file/d/19-6bkDvU2Y17GrUn3Gz8dkRHaSYSTUBa/view?usp=drive_link",
+      "remote_version": "1.0.0"
+    },
+    {
+      "name": "ash_room_catalogue",
+      "filename": "ash_room_catalogue.db",
+      "url": "https://github.com/ShanonPearce/ASH-DSP/raw/refs/heads/main/resources/databases/ash_room_catalogue.db",
+      "url_alternative": "https://mirror.example.com/ash/ash_room_catalogue.db",
+      "remote_version": "1.0.0"
+    }
+  ]
+}
